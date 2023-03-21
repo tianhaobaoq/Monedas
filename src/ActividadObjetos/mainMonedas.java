@@ -3,7 +3,11 @@ package ActividadObjetos;
 import java.util.Scanner;
 
 import javax.swing.JOptionPane;
-
+/**
+ * Método main donde se realizan las conversiones (euro-dolar/dolar-euro) y se establece el cambio de divisa
+ * @author Abimael
+ *
+ */
 public class mainMonedas {
 
 	public static void main(String[] args) {
